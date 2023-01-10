@@ -68,8 +68,8 @@ let degres = 42;
 let radians = degres * Math.PI / 180;
 let intervalId = setInterval(function(){
     
-    
-}, 4200);
+  
+});
 }
 
 function exercice2()
